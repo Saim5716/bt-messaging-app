@@ -1,0 +1,8 @@
+{
+  "name": "OfflineMesh",
+  "description": "Serverless, decentralized, end-to-end encrypted offline peer-to-peer BLE mesh messaging app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

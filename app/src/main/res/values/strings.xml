@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OfflineMesh</string>
+    <string name="mesh_service_channel_name">OfflineMesh Radio</string>
+    <string name="mesh_service_channel_desc">Keeps peer-to-peer Bluetooth Low Energy mesh relay active in background</string>
+    <string name="mesh_service_notification_title">OfflineMesh Active</string>
+    <string name="mesh_service_notification_text">Scanning and relaying encrypted BLE mesh packets</string>
+</resources>
